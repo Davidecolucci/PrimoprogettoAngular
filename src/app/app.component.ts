@@ -10,8 +10,8 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'asd';
-  NAME ="DOMENICO CIOLONE";
-  test ="IleniTaccogna";
+  NAME ="DOMENICO cIOLONE";
+  test = "Ciao";
 }
 
 
