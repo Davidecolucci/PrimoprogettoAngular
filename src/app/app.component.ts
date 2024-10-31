@@ -10,7 +10,8 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'asd';
-  NAME ="DOMENICO cIOLONE";
+  NAME ="DOMENICO CIOLONE";
+  test ="IleniTaccogna";
 }
 
-W LA FI*A
+
