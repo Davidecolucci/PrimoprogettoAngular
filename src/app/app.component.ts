@@ -11,7 +11,7 @@ import { RouterOutlet } from '@angular/router';
 export class AppComponent {
   title = 'asd';
   NAME ="DOMENICO cIOLONE";
-  test = "Ciao";
+  test = "gvhcghfjjgh";
 }
 
 
